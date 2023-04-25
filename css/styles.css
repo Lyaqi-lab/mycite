@@ -1,0 +1,68 @@
+.top-container {
+
+    background-color: #e4f9f5;
+    padding-top: 100px;
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1 {
+    color: #66bfbf;
+    margin: 50px auto 0 auto;  /* 0 auto*/
+    font-family: 'Sacramento', cursive; 
+    font-size: 562.5% /* 5.625em*/  
+}
+
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: 0 auto 0 auto;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: relative;
+    left: 300px;
+}
+
+.land {
+    position: relative;
+    bottom: -5px;
+    width: 50%;
+    height: 100%;
+}
+
+
+.duck-skill1 {
+    
+}
+
+
+
+.skill-row {
+    width:50%;
+    margin: 100px auto 100px auto;
+}
